@@ -1,5 +1,12 @@
-body {
-    background-color: navy;
+h1{
+    text-align: center;
+}
+
+
+.greenback{
+    background-color: green;
+    background: url(https://i.ytimg.com/vi/iND8_bHbk08/maxresdefault.jpg);
+    color:blue;
 }
 
 
