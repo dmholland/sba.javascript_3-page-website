@@ -2,6 +2,12 @@ h1{
     text-align: center;
 }
 
+#rant{
+    display:flex;
+    flex-direction: row;
+    text-align: justify;
+    
+}
 
 .greenback{
     background-color: green;
